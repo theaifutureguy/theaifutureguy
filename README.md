@@ -1,4 +1,4 @@
-# ✨ Daniel Addison - AI Agent | Scraping | API Integration | Trading | FullStack Developer ✨
+# ✨ AI Agent | Scraping | API Integration | Trading | FullStack Developer ✨
 
 ### 👉 About Me
 <br/>
@@ -71,48 +71,3 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-
-### Certificates
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%" style="padding: 20px;">
-      <a href="https://www.credly.com/badges/74384c0d-5bcb-4532-be0b-df4fc85bd168/public_url">
-        <img src="./certificates/artificial-intelligence-fundamentals.PNG" height = "300" alt="ai-fundamentals"/>
-      </a>
-      <br/>
-      <b>Artificial Intelligence Fundamentals</b>
-      <br/>
-      <sub>Credly Badges</sub>
-    </td>
-    <td align="center" width="50%" style="padding: 20px;">
-      <a href="https://www.credly.com/badges/c4ee3a3a-aab9-4258-8e19-5d65eb82323f/public_url">
-        <img src="./certificates/web-development-with-python.PNG" height = "300" alt="Web Development With Python"/>
-      </a>
-      <br/>
-      <b>Web Development With Python</b>
-      <br/>
-      <sub>Credly Badges</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="padding: 20px;">
-      <a href="https://www.credly.com/badges/74384c0d-5bcb-4532-be0b-df4fc85bd168/public_url">
-        <img src="./certificates/python-for-data-science.PNG" height = "300" alt="Python For Data Science"/>
-      </a>
-      <br/>
-      <b>Python For Data Science</b>
-      <br/>
-      <sub>Credly Badges</sub>
-    </td>
-    <td align="center" width="50%" style="padding: 20px;">
-      <a href="https://www.credly.com/badges/05213618-6a0e-45d8-ad4f-b47996275492/public_url">
-        <img src="./certificates/IBM-MQ-on-AWS-Cloud-Developer-Essentials.PNG" height = "300" alt="IBM MQ on AWS Cloud Developer Essentials"/>
-      </a>
-      <br/>
-      <b>IBM MQ on AWS Essentials</b>
-      <br/>
-      <sub>Credly Badges</sub>
-    </td>
-  </tr>
-</table>
